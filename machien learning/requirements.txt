@@ -1,6 +1,0 @@
-streamlit
-streamlit_option_menu
-firebase_admin
-numpy
-Pandas
-Pickle
